@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solanki505 My name is Solanki Sarkar
+- 👋 Hi, I’m Solanki Sarkar
 - 👀 I’m interested in compititive program and open source contribution.
 - 🌱 I’m currently btech first year CSE student of NIT Durgapur
 - 💞️ skills ...-> HTML| CSS | C | C++ | Java  | python
