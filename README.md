@@ -1,4 +1,4 @@
-<h2 align="center">Hi!👋<br> My name is Solanki Sarkar and I'm a currently b-tech first year CSE student of NIT Durgapur, contributor at GSSOC'24</h2></h2>
+<h2 align="center">Hi!👋<br> My name is Solanki Sarkar and I'm a currently B-tech first year CSE student of NIT Durgapur, contributor at GSSOC'24</h2></h2>
 
 ###
 <div align="center">
