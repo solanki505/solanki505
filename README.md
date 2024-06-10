@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋<br><h2>Hello! I'm Solanki Sarkar, a first-year B.Tech student majoring in Computer Science and Engineering at NIT Durgapur. I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></h1>
+<h1 align="center">Hi!👋<br><h2> I'm Solanki Sarkar, a first-year B.Tech student majoring in Computer Science and Engineering at NIT Durgapur. I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></h1>
 
 ###
 <div align="center">
