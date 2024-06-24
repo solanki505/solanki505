@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋<br><h2> I'm Solanki Sarkar,B.Tech 2027 student majoring in Computer Science and Engineering at National Institute of Technology, Durgapur.<br> I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></h1>
-
-<h3 align="left">👩‍💻  About Me</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solanki505&label=Profile%20views&color=0e75b6&style=flat" alt="solanki505" /> </p>
+<h3 align="left">
+  <br>👩‍💻  About Me</h3>
 <div align="center">
   <a href="https://www.instagram.com/solankisarkar54321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
@@ -15,11 +15,15 @@
 </div>
 
 ###
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solanki505&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki505&show_icons=true&locale=en&layout=compact" alt="solanki505" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solanki505&show_icons=true&locale=en" alt="solanki505" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solanki505&" alt="solanki505" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solanki505" alt="solanki505" /></a> </p>
+
 
 ###
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
