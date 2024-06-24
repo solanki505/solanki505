@@ -16,13 +16,13 @@
 
 ###
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki505&show_icons=true&locale=en&layout=compact" alt="solanki505" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solanki505&show_icons=true&locale=en" alt="solanki505" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solanki505&" alt="solanki505" /></p>
+  <p><img align="right"height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=solanki505&show_icons=true&locale=en&layout=compact" alt="solanki505" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solanki505" alt="solanki505" /></a> </p>
+<p>&nbsp;<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=solanki505&show_icons=true&locale=en" alt="solanki505" /></p>
+
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solanki505" alt="solanki505" /></a> </p>
 
 
 ###
@@ -78,9 +78,7 @@
 
 ###
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=solanki505&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solanki505&" alt="solanki505" /></p>
 </div>
 
 ###
