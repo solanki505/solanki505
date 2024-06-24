@@ -1,6 +1,7 @@
 <h1 align="center">Hi!👋<br><h2> I'm Solanki Sarkar,B.Tech 2027 student majoring in Computer Science and Engineering at National Institute of Technology, Durgapur.<br> I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></h1>
 
-###
+<h3 align="left">👩‍💻  About Me</h3>
+
 <div align="center">
   <a href="https://www.instagram.com/solankisarkar54321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
@@ -30,7 +31,6 @@
 
 
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 
 <h3 align="left">🛠 Language and tools</h3>
