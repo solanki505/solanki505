@@ -1,4 +1,4 @@
-<h1 align="center">Hi !👋<br><li><h2> I'm Solanki Sarkar,B.Tech 2027 student majoring in Computer Science and Engineering at National Institute of Technology, Durgapur.</li><li><br> I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></li></h1>
+<h1 align="center">Hi !👋</h1><h2><li> I'm Solanki Sarkar,B.Tech 2027 student majoring in Computer Science and Engineering at National Institute of Technology, Durgapur.</li><li>I'm also an active contributor to GSSOC'24, where I'm passionate about collaborating on open-source projects and enhancing my technical skills.</h2></li>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solanki505&label=Profile%20views&color=0e75b6&style=flat" alt="solanki505" /> </p>
 <h3 align="left">
   <br>👩‍💻  About Me</h3>
