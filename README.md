@@ -4,7 +4,7 @@
 <h3 align="left">
   <br>👩‍💻  About Me</h3>
 <div align="center">
-  <a href="https://www.instagram.com/solankisarkar54321" target="_blank">
+  <a href="https://www.instagram.com/thesolankiverse" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="mailto:solankisarkar11t@gmail.com">
