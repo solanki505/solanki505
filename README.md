@@ -17,6 +17,8 @@
 
 ## GSSOC(24) Badges 🪶 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024">
+  <img width="1058" height="554" alt="image" src="https://github.com/user-attachments/assets/e0d5e92b-c734-453b-80a7-1d8bbe99a54d" />
+
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
